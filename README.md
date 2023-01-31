@@ -1,4 +1,2 @@
 # StarShip
-Game desenvolvido em java se Star Ship
-![Esboco projeto][Image]
-[Image]: Previa.png
+Game desenvolvido em java de Star Ship
